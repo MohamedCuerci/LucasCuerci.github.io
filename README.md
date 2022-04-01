@@ -8,3 +8,8 @@ Projeto de curriculo do programa [Blockchain Academy] Turma 1 | Cripto DEV
 que tem o objetivo de atrair jovens em situação de vulnerabilidade e proporcionar a 
 capacitação em tecnologia, dando a oportunidade de seguirem uma carreira promissora 
 como desenvolvedores/as Ethereum.
+
+<hr>
+para visualizar o curriculo entre no link 
+https://mohamedcuerci.github.io/LucasCuerci.github.io/
+<hr>
