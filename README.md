@@ -1,15 +1,28 @@
+## Boas vindas ao primeiro desafio!
 
-## Projeto de currículo em HTML, CSS e JAVASCRIPT
+Essa é uma aplicação que criptografa textos, assim você poderá trocar mensagens secretas com outras pessoas que saibam o segredo da criptografia utilizada.
 
-Projeto de curriculo do programa [Blockchain Academy] Turma 1 | Cripto DEV
+**As "chaves" de criptografia utilizadas são:**
+```A letra "e" é convertida para "enter"```
+```A letra "i" é convertida para "imes"```
+```A letra "a" é convertida para "ai"```
+```A letra "o" é convertida para "ober"```
+```A letra "u" é convertida para "ufat"```
 
-#O que é o Cripto DEV?
-* O Cripto Dev é um programa da Blockchain Academy em parceria com a Gama Academy 
-que tem o objetivo de atrair jovens em situação de vulnerabilidade e proporcionar a 
-capacitação em tecnologia, dando a oportunidade de seguirem uma carreira promissora 
-como desenvolvedores/as Ethereum.
+Requisitos:
+1. Deve funcionar apenas com letras minúsculas
+2.  Não devem ser utilizados letras com acentos nem caracteres especiais
+3.  Deve ser possível converter uma palavra para a versão criptografada e também retornar uma palavra criptografada para a versão original.
+
+Por exemplo:
+```"gato" => "gaitober"```
+```gaitober" => "gato"```
+
+* A página deve ter campos para inserção do texto a ser criptografado ou descriptografado, e a pessoa usuária deve poder escolher entre as duas opções
+
+* O resultado deve ser exibido na tela.
 
 <hr>
-para visualizar o curriculo entre no link 
+para visualizar o curriculo entre no link
 https://mohamedcuerci.github.io/LucasCuerci.github.io/
 <hr>
