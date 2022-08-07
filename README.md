@@ -23,6 +23,6 @@ Por exemplo:
 * O resultado deve ser exibido na tela.
 
 <hr>
-para visualizar o curriculo entre no link
+para visualizar o projeto entre no link
 https://mohamedcuerci.github.io/LucasCuerci.github.io/
 <hr>
